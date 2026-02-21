@@ -4,7 +4,7 @@ FOR LEARNERS; YOU CAN CLONE THIS PROJECT SINCE IT'S CREATED AND AVAILABLE USING 
 📌 Build From Scratch: Yes. You  will design all classes, headers, CMake build, and implementation
 📌 Purpose: Master8(learn ) classes, objects, abstraction, polymorphism, templates, and modern C++ design
 📌 Toolchain: VSCode + CMake + Ninja
-📌 Estimated Time: ~10–15 hours 
+📌 Estimated Time: ~10–15 hours.
 
 
 layout: 
